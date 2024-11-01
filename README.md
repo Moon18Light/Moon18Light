@@ -8,9 +8,8 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 
 ### 🌱 I’m currently learning ...
 - Advanced algorithms and data structures.
-- Web development with React js.
-- Cloud computing with AWS.
-- Android development with Kotlin.
+- Web development with Node.js.
+- Java development
 
 ### 👯 I’m looking to collaborate on ...
 - Open-source projects related to web development.
@@ -24,7 +23,6 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 ### 💬 Ask me about ...
 - JavaScript and their frameworks.
 - Best practices in software development.
-- Tips for getting started with open-source contributions.
 
 ### 📫 How to reach me ...
 - Email: princessanu518@gmail.com
