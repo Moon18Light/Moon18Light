@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 
 ### 📫 How to reach me ...
 - Email: princessanu518@gmail.com
-- LinkedIn: https://www.linkedin.com/in/aññú-shréê-6175a3251
+- LinkedIn: https://www.linkedin.com/in/annu-shree-6175a3251/
 
 ### 😄 Pronouns ...
 - She/Her
