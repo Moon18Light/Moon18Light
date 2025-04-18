@@ -3,13 +3,13 @@
 Welcome to my GitHub profile! I'm excited to share my projects and collaborate with the amazing GitHub community.
 
 ### 🔭 I’m currently working on ...
-- **[ONLINE CURRENCY CONVERTER GAME]**: Currency Converter game using HTML, CSS, & JavaScript where players are allowed to convert one country's currency into another country’s currency. Implement game logic using JavaScript & API.
-- **[ONLINE COLLEGE WEBSITE]**: Build up college websites using HTML, CSS, Bootstrap, PHP, and MYSQL where users can log in by filling up their details.
+- **[To-Do-List]**: To-Do-List using HTML, CSS, & JavaScript where user can add any task, marked it as done or incomplete and also delete it after completion of the task.
+- **[Tic-Tac-Toe Game]**: A simple 2-player Tic-Tac-Toe game using HTML, CSS, and JavaScript with win/draw detection and reset functionality.
 
 ### 🌱 I’m currently learning ...
 - Advanced algorithms and data structures.
-- Web development with Node.js.
-- Java development
+- Web development.
+- Java development.
 
 ### 👯 I’m looking to collaborate on ...
 - Open-source projects related to web development.
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 - Optimizing the performance of my code.
 
 ### 💬 Ask me about ...
-- JavaScript and their frameworks.
+- Java and DSA.
 - Best practices in software development.
 
 ### 📫 How to reach me ...
