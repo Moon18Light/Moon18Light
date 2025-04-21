@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaborate w
 - She/Her
 
 ### ⚡ Fun fact ...
-- I built a tic-tac-toe game and a Rock-Paper-Scissors game that you can play online!
+- I built a Tic-Tac-Toe game and a Rock-Paper-Scissors game that you can play online!
